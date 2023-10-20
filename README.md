@@ -1,30 +1,19 @@
 
 ![output-onlinepngtools](https://github.com/kaizermm/kaizermm/assets/121756502/b6c6a313-233a-424e-aaf2-9819a5624b30 )
 
-
-
 <div align="center">
-
 </div>  
   
-
 ### <div align="center">I'm  Wan Quyen Huang but you can call me Kevin. I am an aspiring Data Analyst. In 2023, I enrolled in a 6 months Data Analyst program online BootCamp at Practicum by Yandex.🚀</div>  
   
-
 - 🔭 I’m currently working on my Github profile and project portfolio.  
   
-
 - 🌱 I’m currently learning Python, Tableau, Pandas, Scikit-learn and Matplotlib.  
   
-
 - ❓ Ask me about anything related to SQL.  
   
-
 - ⚡ Fun fact: I use analytical skills to make financial decision.  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
