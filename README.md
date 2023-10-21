@@ -29,8 +29,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 ## My Portfolio
-# [Zuber-Rideshare-Analysis](https://github.com/kaizermm/Zuber-Rideshare-Analysis.git)
+### [Zuber-Rideshare-Analysis](https://github.com/kaizermm/Zuber-Rideshare-Analysis.git)
+
 * Leveraged SQL for data extraction and harnessed Python for data visualization.
+
 * Conducted in-depth Exploratory Data Analysis (EDA) to gain insights into passenger preferences and the influence of external variables like weather on ride patterns.
+
 * Performed hypothesis testing to determine if there is a significant difference in the average ride duration between the Loop and O'Hare International Airport on rainy Saturdays.
 
