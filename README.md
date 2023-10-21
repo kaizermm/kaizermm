@@ -4,7 +4,7 @@
 <div align="center">
 </div>  
   
-### <div align="center">I'm  Wan Quyen Huang but you can call me Kevin. I am an aspiring Data Analyst. In 2023, I enrolled in a 6 months Data Analyst program online BootCamp at Practicum by Yandex.🚀</div>  
+### <div align="center">I'm  Wan Quyen Huang but you can call me Kevin. I am an aspiring Data Analyst. In 2023, I enrolled in a 6 months Data Analyst program online BootCamp at Practicum by TripleTen.🚀</div>  
   
 - 🔭 I’m currently working on my Github profile and project portfolio.  
   
