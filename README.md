@@ -37,3 +37,10 @@
 
 * Performed hypothesis testing to determine if there is a significant difference in the average ride duration between the Loop and O'Hare International Airport on rainy Saturdays.
 
+###  [Music_App_Analysis](https://github.com/kaizermm/Music_App_Analysis.git)
+* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behavior in these two cities.
+* Conducted data preprocessing, conducted exploratory data analysis, and uncovered valuable insights through data visualization.
+* Investigated three key hypotheses:
+  1. Explored variations in user activity across different days of the week and between the two cities.
+  2. Identified differences in music genre preferences for Springfield and Shelbyville residents during Monday mornings and Friday evenings.
+  3. Discovered distinct music preferences; pop being favored in Springfield, while Shelbyville showed a higher affinity for rap music.
