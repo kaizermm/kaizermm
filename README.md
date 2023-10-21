@@ -61,6 +61,23 @@
 
 * Develop a web application using a tool like Render for effective data presentation and interaction.
 
+### [Optimize_marketing_expenses_analysis](https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git)
+
+* Performed data cleaning and preprocessing to prepare for exploratory data analysis.
+
+* Analyzed key metrics to understand user engagement on a daily, weekly, and monthly basis.
+
+* Conducted cohort analysis to evaluate retention time, Customer Lifetime Value (LTV), Return on Investment (ROI), and more.
+
+* Offered valuable insights to guide marketing experts in optimizing their budget allocation.
+
+
+
+
+
+
+
+
 
 
 
