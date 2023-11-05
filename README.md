@@ -62,7 +62,7 @@
 * Conducted cohort analysis to evaluate retention time, Customer Lifetime Value (LTV), Return on Investment (ROI), and more.
 
 * Offered valuable insights to guide marketing experts in optimizing their budget allocation.
-### [Superstore_Return_Rate_Dashboard](https://github.com/kaizermm/Superstore-Return-Rate.git)
+### [Superstore_Return_Rate](https://github.com/kaizermm/Superstore-Return-Rate.git)
 
 * Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
 
