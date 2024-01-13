@@ -81,48 +81,11 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 ## Data Analyst Projects:
-### [Zuber-Rideshare-Analysis](https://github.com/kaizermm/Zuber-Rideshare-Analysis.git)
+### [Zuber-Rideshare-Analysis-with-SQL-and-Python](https://github.com/kaizermm/Zuber-Rideshare-Analysis.git): 
+Zuber, a mobile app offering affordable rides, aimed to comprehensively analyze competitor data to understand passenger preferences and the impact of external factors on ride services.
 
-* Leveraged SQL for data extraction and harnessed Python for data visualization.
+### [AtliQ-Hardware-Financial-Analysis](https://github.com/kaizermm/AtliQ-Hardware-Financial-Analysis-.git)
 
-* Conducted in-depth Exploratory Data Analysis (EDA) to gain insights into passenger preferences and the influence of external variables like weather on ride patterns.
-
-* Performed hypothesis testing to determine if there is a significant difference in the average ride duration between the Loop and O'Hare International Airport on rainy Saturdays.
-
-###  [Music_App_Analysis](https://github.com/kaizermm/Music_App_Analysis.git)
-* Analyzed music preferences in Springfield and Shelbyville, leveraging real Yandex.Music data to explore user behavior in these two cities.
-
-* Conducted data preprocessing, conducted exploratory data analysis, and uncovered valuable insights through data visualization.
-
-* Investigated three key hypotheses:
-  1. Explored variations in user activity across different days of the week and between the two cities.
-  2. Identified differences in music genre preferences for Springfield and Shelbyville residents during Monday mornings and Friday evenings.
-  3. Discovered distinct music preferences; pop being favored in Springfield, while Shelbyville showed a higher affinity for rap music.
-### [Instacart-Analysis](https://github.com/kaizermm/Instacart-Analysis.git)
-* This study delves into Instacart shoppers' behaviour in 2017.
-
-* It involved data preprocessing, EDA, and information extraction through visualizations.
-
-* The analysis identified product popularity, peak order days and times, order frequency per customer, and product reorder proportions.
-
-### [Stocky E-commerce website](https://github.com/kaizermm/Optimize_marketing_expenses_analysis.git)
-
-* Performed data cleaning and preprocessing to prepare for exploratory data analysis.
-
-* Analyzed key metrics to understand user engagement on a daily, weekly, and monthly basis.
-
-* Conducted cohort analysis to evaluate retention time, Customer Lifetime Value (LTV), Return on Investment (ROI), and more.
-
-* Offered valuable insights to guide marketing experts in optimizing their budget allocation.
-### [Superstore_Return_Rate](https://github.com/kaizermm/Superstore-Return-Rate.git)
-
-* Utilized Tableau for creating visualizations that showcased return rates based on month, ship mode, city, and state.
-
-* Combined these visual insights into an impactful dashboard and delivered a comprehensive presentation using PowerPoint.
-### [Chan-Candy-Store-Dashboard-Excel-](https://github.com/kaizermm/Chan-Candy-Store-Dashboard-Excel-.git)
-* Leveraged dynamic pivot tables and slicers for data analysis, following Chandoo's expert guidance. Examined seasonal trends, identifying the top-selling product.
-* Employed statistical evaluations to extract valuable insights from sales data.
-* Created a dynamic Sales Performance Dashboard, showcasing key metrics like Profit, Profit %, and Number of Sales. Identified profitable products and seasonal sales patterns.
 ## Fun fact
 Have you heard the saying 'In the realm of technology, data is often considered the new oil, requiring careful refinement and processing to unlock its true value?' Whether delving into data analysis or diving into web development, my mission is to extract every bit of value from the digital landscape. 💡🔍
 ## Get in touch
