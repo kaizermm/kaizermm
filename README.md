@@ -85,7 +85,7 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
 Zuber, a mobile app offering affordable rides, aimed to comprehensively analyze competitor data to understand passenger preferences and the impact of external factors on ride services.
 
 ### [AtliQ-Hardware-Financial-Analysis](https://github.com/kaizermm/AtliQ-Hardware-Financial-Analysis-.git)
-
+AtliQ Technologies is a software development company where innovation meets excellence, tasked with unlocking financial insights that were previously hidden from the sales team, and enhancing our overall financial strategy.
 ## Fun fact
 Have you heard the saying 'In the realm of technology, data is often considered the new oil, requiring careful refinement and processing to unlock its true value?' Whether delving into data analysis or diving into web development, my mission is to extract every bit of value from the digital landscape. 💡🔍
 ## Get in touch
