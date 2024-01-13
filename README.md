@@ -80,7 +80,7 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
 <a href="https://linkedin.com/in/wanquyenhuangdata" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-## My Portfolio
+## Data Analyst Projects:
 ### [Zuber-Rideshare-Analysis](https://github.com/kaizermm/Zuber-Rideshare-Analysis.git)
 
 * Leveraged SQL for data extraction and harnessed Python for data visualization.
@@ -123,6 +123,10 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
 * Leveraged dynamic pivot tables and slicers for data analysis, following Chandoo's expert guidance. Examined seasonal trends, identifying the top-selling product.
 * Employed statistical evaluations to extract valuable insights from sales data.
 * Created a dynamic Sales Performance Dashboard, showcasing key metrics like Profit, Profit %, and Number of Sales. Identified profitable products and seasonal sales patterns.
+## Fun fact
+Have you heard the saying 'In the realm of technology, data is often considered the new oil, requiring careful refinement and processing to unlock its true value?' Whether delving into data analysis or diving into web development, my mission is to extract every bit of value from the digital landscape. 💡🔍
+## Get in touch
+
 
 
 
