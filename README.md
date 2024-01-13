@@ -12,13 +12,10 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
     <tr>
         <td>SQL</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sqlite/index.html" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="60" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="60" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" width="60" height="60"/></a>
+          
         </td>
     </tr>
     <tr>
