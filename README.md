@@ -89,7 +89,9 @@ AtliQ Technologies is a software development company where innovation meets exce
 ## Fun fact
 Have you heard the saying 'In the realm of technology, data is often considered the new oil, requiring careful refinement and processing to unlock its true value?' Whether delving into data analysis or diving into web development, my mission is to extract every bit of value from the digital landscape. 💡🔍
 ## Get in touch
+Whether it's about marketing strategies, graphic design, or a mix of both, I'm open to engaging in discussions and collaborations. Drop a message on my email or connect on LinkedIn for opportunities, questions, or casual conversations! 📧
 
+Excited about the prospect of connecting with you! 
 
 
 
