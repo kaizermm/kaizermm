@@ -21,7 +21,6 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
         <td>Languages</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="60" height="60"/></a>
         </td>
     </tr>
     <tr>
@@ -33,17 +32,10 @@ Greetings, fellow technology enthusiasts! 😄 I'm Kevin Huang, an enthusiastic 
     <tr>
         <td>Programming/Backend</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     </tr>
-    <tr>
-        <td>Frontend Dev</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-        </td>
     </tr>
     <tr>
         <td>Databases/Datastores</td>
