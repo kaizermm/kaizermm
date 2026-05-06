@@ -95,7 +95,20 @@ An intelligent tool that uses NLP and large language models to analyze resumes a
 `Python` `LLMs` `NLP` `Transformers` `Prompt Engineering`
 
 ---
-
+### 📄 [LongDoc Summarizer](https://github.com/kaizermm/longdoc-summarizer.git)
+> **Production LLM pipeline for summarizing 100-page PDFs with hallucination verification**
+ 
+A full-stack AI engineering project that tackles real document summarization challenges — adaptive chunking, parallel async processing, model cost routing, and a two-layer hallucination verification system with deep document interrogation.
+ 
+**Key Features:**
+- Context-aware chunking with semantic (paragraph-boundary) and fixed+overlap strategies
+- Parallel async map-reduce and hierarchical summarization pipelines (70 chunks in ~8s vs 70s sequential)
+- Application-level model routing: gpt-4o-mini for map phase, gpt-4o for synthesis — 65% cost savings
+- Two-layer hallucination verification: regex fact-checking + LLM grounding checks
+- Interrogation mode with analytical question sets surfacing omissions, risks, and insights
+`Python` `OpenAI` `FastAPI` `Gradio` `asyncio` `tiktoken` `ROUGE` `n8n`
+ 
+---
 ## 💡 What I'm Focused On
 
 - 🤖 Building LLM-powered applications with RAG and agent frameworks
